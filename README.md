@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Arcana
 
-<!--
-**DevArcana/DevArcana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Aspiring Game & Software Developer from South Korea  
+💻 High School Student | Game, Web & Android Developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎯 Passionate about Game Development
+- 🎮 Developing games with Unity (C#)
+- 🌐 Building modern Web applications
+- 📱 Developing Android apps with Kotlin
+- 🗄️ Interested in Backend & Database Development
+- 📚 Always learning new technologies and improving my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+- C#
+- Kotlin
+- Java
+- C++
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+### Frameworks & Tools
+- Unity
+- Android Studio
+- Git & GitHub
+- MySQL
+- Oracle Database
+- SQLite
+
+## 📌 Projects
+- 🎵 MAIMAI Helper (Android)
+- 🎮 Rhythm Game (Unity)
+- 🌐 Web Development Projects
+
+## 🌱 Currently Learning
+- Unity Game Development
+- Full-Stack Web Development
+- Android Development
+- Backend & Database
+- Software Architecture
+
+## 🎯 Goals
+- 💼 Become a Professional Game & Software Developer
+- 🚀 Build applications and games that people enjoy using
+
+---
+
+> *Take your time. Your pace is enough.*
