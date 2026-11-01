@@ -40,18 +40,6 @@ Building practical solutions through code.
 
 ---
 
-## > GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevArcana&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevArcana&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
 ## > Featured Projects
 
 | Project | Description | Tech |
@@ -64,6 +52,6 @@ Building practical solutions through code.
 
 <div align="center">
 
-**`[ Thanks for visiting! ]`**
+**`[ Take your time. Your pace is enough. ]`**
 
 </div>
