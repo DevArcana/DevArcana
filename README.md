@@ -1,52 +1,69 @@
-# 👋 Hi, I'm Arcana
+<div align="center">
 
-🎮 Aspiring Game & Software Developer from South Korea  
-💻 High School Student | Game, Web & Android Developer
+# > ARCANA_
 
-## 🚀 About Me
-- 🎯 Passionate about Game Development
-- 🎮 Developing games with Unity (C#)
-- 🌐 Building modern Web applications
-- 📱 Developing Android apps with Kotlin
-- 🗄️ Interested in Backend & Database Development
-- 📚 Always learning new technologies and improving my skills
+### `Software Developer`
 
-## 🛠️ Tech Stack
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hello%2C+World!;I'm+Arcana;Software+Developer;Always+Learning...)
 
-### Languages
-- C#
-- Kotlin
-- Java
-- C++
-- SQL
-- HTML
-- CSS
-- JavaScript
+Building practical solutions through code.
 
-### Frameworks & Tools
-- Unity
-- Android Studio
-- Git & GitHub
-- MySQL
-- Oracle Database
-- SQLite
+[GitHub Profile](https://github.com/DevArcana)
 
-## 📌 Projects
-- 🎵 MAIMAI Helper (Android)
-- 🎮 Rhythm Game (Unity)
-- 🌐 Web Development Projects
-
-## 🌱 Currently Learning
-- Unity Game Development
-- Full-Stack Web Development
-- Android Development
-- Backend & Database
-- Software Architecture
-
-## 🎯 Goals
-- 💼 Become a Professional Game & Software Developer
-- 🚀 Build applications and games that people enjoy using
+</div>
 
 ---
 
-> *Take your time. Your pace is enough.*
+## > About Me
+
+안녕하세요. 개발자 **Arcana**입니다.
+
+사용자 경험과 실용성을 중요하게 생각하며,  
+다양한 소프트웨어를 개발하고 있습니다.
+
+- Full-Stack Development
+- Application Development
+- Game Development
+- Continuous Learning
+
+---
+
+## > Tech Stack
+
+### Languages
+
+`C#` `C++` `Python` `Java` `JavaScript` `Kotlin`
+
+### Tools & Technologies
+
+`Unity` `Git` `GitHub` `Docker` `Android Studio` `VS Code`
+
+---
+
+## > GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevArcana&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevArcana&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## > Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Rhythm Game](https://github.com/DevArcana/Rhythm_Game) | PC Rhythm Game | Unity, C# |
+| [MAIMAI HELPER](https://github.com/DevArcana/MAIMAI-HELPER) | Rhythm Game Utility | Kotlin |
+| The Last Wizard of the City | 2D Action RPG | Python, Pygame |
+
+---
+
+<div align="center">
+
+**`[ Thanks for visiting! ]`**
+
+</div>
